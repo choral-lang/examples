@@ -1,8 +1,8 @@
-package choral.OOPSLA.Karatsuba.ChoralUnit;
+package choral.examples.Karatsuba.ChoralUnit;
 
-import choral.OOPSLA.Karatsuba.Karatsuba1;
-import choral.OOPSLA.Karatsuba.Karatsuba2;
-import choral.OOPSLA.Karatsuba.Karatsuba3;
+import choral.examples.Karatsuba.Karatsuba1;
+import choral.examples.Karatsuba.Karatsuba2;
+import choral.examples.Karatsuba.Karatsuba3;
 import org.choral.annotations.Choreography;
 import org.choral.choralUnit.testUtils.TestUtils1;
 import org.choral.choralUnit.testUtils.TestUtils2;

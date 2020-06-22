@@ -1,4 +1,4 @@
-package choral.OOPSLA.Quicksort;
+package choral.examples.Quicksort;
 
 import org.choral.lang.Channels.SymChannel1;
 import org.choral.lang.Channels.SymChannel2;

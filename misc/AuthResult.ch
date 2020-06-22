@@ -1,8 +1,8 @@
-package choral.OOPSLA.AuthResult;
+package choral.examples.AuthResult;
 
-import choral.OOPSLA.BiPair.BiPair1;
-import choral.OOPSLA.BiPair.BiPair2;
-import choral.OOPSLA.DistAuthUtils.AuthToken;
+import choral.examples.BiPair.BiPair1;
+import choral.examples.BiPair.BiPair2;
+import choral.examples.DistAuthUtils.AuthToken;
 import java.util.Optional;
 
 public class AuthResult@( A, B ) extends

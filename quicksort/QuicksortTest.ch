@@ -1,8 +1,8 @@
-package choral.OOPSLA.Quicksort.ChoralUnit;
+package choral.examples.Quicksort.ChoralUnit;
 
-import choral.OOPSLA.Quicksort.Quicksort1;
-import choral.OOPSLA.Quicksort.Quicksort2;
-import choral.OOPSLA.Quicksort.Quicksort3;
+import choral.examples.Quicksort.Quicksort1;
+import choral.examples.Quicksort.Quicksort2;
+import choral.examples.Quicksort.Quicksort3;
 import org.choral.annotations.Choreography;
 import org.choral.choralUnit.testUtils.TestUtils1;
 import org.choral.choralUnit.testUtils.TestUtils2;

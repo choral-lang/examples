@@ -1,4 +1,4 @@
-package choral.OOPSLA.ConsumeItems;
+package choral.examples.ConsumeItems;
 
 import org.choral.lang.Channels.DiChannel1;
 import org.choral.lang.Channels.DiChannel2;

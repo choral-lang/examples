@@ -1,11 +1,11 @@
-package choral.OOPSLA.DistAuth;
+package choral.examples.DistAuth;
 
-import choral.OOPSLA.AuthResult.AuthResult1;
-import choral.OOPSLA.AuthResult.AuthResult2;
-import choral.OOPSLA.DistAuthUtils.AuthToken;
-import choral.OOPSLA.DistAuthUtils.Base64_Encoder;
-import choral.OOPSLA.DistAuthUtils.ClientRegistry;
-import choral.OOPSLA.DistAuthUtils.Credentials;
+import choral.examples.AuthResult.AuthResult1;
+import choral.examples.AuthResult.AuthResult2;
+import choral.examples.DistAuthUtils.AuthToken;
+import choral.examples.DistAuthUtils.Base64_Encoder;
+import choral.examples.DistAuthUtils.ClientRegistry;
+import choral.examples.DistAuthUtils.Credentials;
 import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;

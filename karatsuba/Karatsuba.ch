@@ -1,4 +1,4 @@
-package choral.OOPSLA.Karatsuba;
+package choral.examples.Karatsuba;
 
 import org.choral.lang.Channels.SymChannel1;
 import org.choral.lang.Channels.SymChannel2;

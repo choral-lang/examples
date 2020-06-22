@@ -1,8 +1,8 @@
-package choral.OOPSLA.Mergesort.ChoralUnit;
+package choral.examples.Mergesort.ChoralUnit;
 
-import choral.OOPSLA.Mergesort.Mergesort1;
-import choral.OOPSLA.Mergesort.Mergesort2;
-import choral.OOPSLA.Mergesort.Mergesort3;
+import choral.examples.Mergesort.Mergesort1;
+import choral.examples.Mergesort.Mergesort2;
+import choral.examples.Mergesort.Mergesort3;
 import org.choral.annotations.Choreography;
 import org.choral.choralUnit.testUtils.TestUtils1;
 import org.choral.choralUnit.testUtils.TestUtils2;

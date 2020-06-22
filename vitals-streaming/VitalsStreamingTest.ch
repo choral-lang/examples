@@ -1,9 +1,9 @@
-package choral.OOPSLA.VitalsStreaming.ChoralUnit;
+package choral.examples.VitalsStreaming.ChoralUnit;
 
-import choral.OOPSLA.VitalsStreaming.VitalsStreaming1;
-import choral.OOPSLA.VitalsStreaming.VitalsStreaming2;
-import choral.OOPSLA.VitalsStreamingUtils.Sensor;
-import choral.OOPSLA.VitalsStreamingUtils.Vitals;
+import choral.examples.VitalsStreaming.VitalsStreaming1;
+import choral.examples.VitalsStreaming.VitalsStreaming2;
+import choral.examples.VitalsStreamingUtils.Sensor;
+import choral.examples.VitalsStreamingUtils.Vitals;
 import org.choral.annotations.Choreography;
 import org.choral.choralUnit.Assert;
 import org.choral.choralUnit.testUtils.TestUtils1;

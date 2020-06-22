@@ -1,4 +1,4 @@
-package choral.OOPSLA.Mergesort;
+package choral.examples.Mergesort;
 
 import org.choral.lang.Channels.SymChannel1;
 import org.choral.lang.Channels.SymChannel2;

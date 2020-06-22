@@ -1,4 +1,4 @@
-package choral.OOPSLA.RemoteFunction;
+package choral.examples.RemoteFunction;
 
 import org.choral.lang.DataChannels.BiDataChannel1;
 import org.choral.lang.DataChannels.BiDataChannel2;

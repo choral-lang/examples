@@ -1,11 +1,11 @@
-package choral.OOPSLA.DistAuth.ChoralUnit;
+package choral.examples.DistAuth.ChoralUnit;
 
-import choral.OOPSLA.AuthResult.AuthResult1;
-import choral.OOPSLA.AuthResult.AuthResult2;
-import choral.OOPSLA.DistAuth.DistAuth1;
-import choral.OOPSLA.DistAuth.DistAuth2;
-import choral.OOPSLA.DistAuth.DistAuth3;
-import choral.OOPSLA.DistAuthUtils.Credentials;
+import choral.examples.AuthResult.AuthResult1;
+import choral.examples.AuthResult.AuthResult2;
+import choral.examples.DistAuth.DistAuth1;
+import choral.examples.DistAuth.DistAuth2;
+import choral.examples.DistAuth.DistAuth3;
+import choral.examples.DistAuthUtils.Credentials;
 import org.choral.annotations.Choreography;
 import org.choral.choralUnit.testUtils.TestUtils1;
 import org.choral.choralUnit.testUtils.TestUtils2;

@@ -1,6 +1,6 @@
-package choral.OOPSLA.VitalsStreaming;
+package choral.examples.VitalsStreaming;
 
-import choral.OOPSLA.VitalsStreamingUtils.*;
+import choral.examples.VitalsStreamingUtils.*;
 import org.choral.lang.Channels.SymChannel2;
 import org.choral.lang.Channels.SymChannel1;
 import java.util.function.Consumer;
