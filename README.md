@@ -13,7 +13,7 @@ In the `choral` folder there are a list of examples of Choral programs:
 - RemoteFunction (remote-function)
 - VitalsStreaming (vitals-streaming)
 
-In each folder there is a README file reporting the choral command to compile the choral program contained.
+In each folder there is a README file reporting the choral command to compile the choral program contained, from the root folder of the repository.
 
 The `java` folder contains Java files useful to compile the choral-compiled programs into executable (binary) code.
 
