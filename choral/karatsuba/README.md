@@ -1,1 +1,3 @@
-This is a repository containing use cases and examples of choreographies written in the [Choral language](https://choral-lang.org).
+choral epp -s choral/karatsuba -t java --headers=choral/runtime:choral/choralUnit Karatsuba --annotate
+
+choral epp -s choral/karatsuba -t java --headers=choral/runtime:choral/choralUnit KaratsubaTest --annotate

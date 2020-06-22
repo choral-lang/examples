@@ -1,3 +1,3 @@
-choral epp -s choral/distributed-authentication -t java --headers=src/runtime/choral:src/choralUnit/choral DistAuth
+choral epp -s choral/distributed-authentication -t java --headers=choral/runtime:choral/choralUnit:choral/distributed-authentication DistAuth
 
-choral epp -s=choral/distributed-authentication -t java --headers=src/runtime/choral:src/choralUnit/choral DistAuthTest --annotate
+choral epp -s choral/distributed-authentication -t java --headers=choral/runtime:choral/choralUnit:choral/distributed-authentication DistAuthTest

@@ -1,3 +1,3 @@
-choral epp -s choral/quicksort -t java --headers=src/runtime/choral:src/choralUnit/choral Quicksort --annotate
+choral epp -s choral/quicksort -t java --headers=choral/runtime:choral/choralUnit Quicksort
 
-choral epp -s choral/quicksort -t java --headers=src/runtime/choral:src/choralUnit/choral QuicksortTest --annotate
+choral epp -s choral/quicksort -t java --headers=choral/runtime:choral/choralUnit QuicksortTest

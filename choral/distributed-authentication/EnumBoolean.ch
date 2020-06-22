@@ -1,4 +1,4 @@
-package org.choral.DistAuth;
+package choral.examples.DistAuth;
 
 import org.choral.runtime.Serializers.KryoSerializable;
 
