@@ -3,10 +3,10 @@ package choral.examples.Mergesort.ChoralUnit;
 import choral.examples.Mergesort.Mergesort;
 import choral.choral.choralUnit.testUtils.TestUtils;
 import choral.channels.SymChannel;
-import choral.choral.choralUnit.annotations.Test;
+import choral.choralUnit.annotations.Test;
 import java.util.ArrayList;
 import java.util.List;
-import choral.choral.choralUnit.Assert;
+import choral.choralUnit.Assert;
 
 public class MergesortTest@( A, B, C ) {
 

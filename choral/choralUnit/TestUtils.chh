@@ -1,4 +1,4 @@
-package choral.choral.choralUnit.testUtils;
+package choral.choralUnit.testUtils;
 
 import choral.channels.SymChannel;
 import choral.runtime.TLSChannel.TLSChannel;

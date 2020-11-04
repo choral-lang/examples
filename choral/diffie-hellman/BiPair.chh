@@ -1,0 +1,12 @@
+package choral.examples.biPair;
+
+public class BiPair@(A, B)<L@A, R@B> {
+
+	public BiPair( L@A left, R@B right ) { }
+
+	public L@A left() { }
+	
+	public R@B right() { }
+
+}
+

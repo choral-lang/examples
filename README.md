@@ -6,6 +6,7 @@ In the `choral` folder there are a list of examples of Choral programs:
 - BuyerSellerShipper (buyer-seller-shipper)
 - ConsumeItems (consume-items)
 - DistAuth (distributed-authentication)
+- DiffieHellman (diffie-hellman)
 - HelloRoles (hello-roles)
 - Karatsuba (karatsuba)
 - Mergesort (mergesort)
