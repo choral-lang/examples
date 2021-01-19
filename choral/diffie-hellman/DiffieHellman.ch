@@ -22,8 +22,8 @@ public class DiffieHellman@(Alice,Bob) {
         BigInteger@Bob   bRecvKey = channel.<BigInteger>com( aPubKey );
         BigInteger@Alice aRecvKey = channel.<BigInteger>com( bPubKey );
         /* Step 3:compute shared key. */
-        BigInteger@Alice aSharedKey = aSharedGenerator.modPow( aRecvKey, aSharedPrime );
-        BigInteger@Bob   bSharedKey = bSharedGenerator.modPow( bRecvKey, bSharedPrime );
+        BigInteger@Alice aSharedKey = aRecvKey.modPow( aPrivKey, aSharedPrime );
+        BigInteger@Bob   bSharedKey = bRecvKey.modPow( bPrivKey, bSharedPrime );
         return new BiPair@(Alice,Bob)<BigInteger,BigInteger>( aSharedKey,bSharedKey );
     }
 
