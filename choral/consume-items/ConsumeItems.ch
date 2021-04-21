@@ -6,7 +6,6 @@ import java.util.Iterator;
 
 public class ConsumeItems@( A, B ) {
 	public static void consumeItems( DiChannel@( A, B )< Integer > ch, Iterator@A< Integer > it, Consumer@B< Integer > consumer ){
-		ch.< Integer >com( it.next() );
 		if ( it.hasNext() ){
 			ch.< ConsumeChoice >select( ConsumeChoice@A.AGAIN );
 			it.next() >> ch::< Integer > com >> consumer::accept;
