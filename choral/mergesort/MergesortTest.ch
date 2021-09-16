@@ -1,7 +1,7 @@
 package choral.examples.Mergesort.ChoralUnit;
 
 import choral.examples.Mergesort.Mergesort;
-import choral.choral.choralUnit.testUtils.TestUtils;
+import choral.choralUnit.testUtils.TestUtils;
 import choral.channels.SymChannel;
 import choral.choralUnit.annotations.Test;
 import java.util.ArrayList;
